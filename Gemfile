@@ -48,4 +48,9 @@ end
 
 gem 'omniauth', '~> 1.3', '>= 1.3.1'
 
+gem 'therubyracer'
+
+gem 'less-rails'
+
+gem 'twitter-bootstrap-rails'
 
